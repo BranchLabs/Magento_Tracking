@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+  <placeholders>
+    <branchlabs_tracking>
+      <block>branchlabs_tracking/cachebuster</block>
+      <placeholder>BRANCHLABS_TRACKING_CACHEBUSTER</placeholder>
+      <container>BranchLabs_Tracking_Model_Placeholder</container>
+      <cache_lifetime>0</cache_lifetime>
+    </branchlabs_tracking>
+  </placeholders>
+</config>
+

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <BranchLabs_Tracking>
+            <version>1.0.0</version>
+        </BranchLabs_Tracking>
+    </modules>
+    <global>
+        <blocks>
+            <branchlabs_tracking>
+                <class>BranchLabs_Tracking_Block</class>
+            </branchlabs_tracking>
+        </blocks>
+        <helpers>
+            <branchlabs_tracking>
+                <class>BranchLabs_Tracking_Helper</class>
+            </branchlabs_tracking>
+        </helpers>
+        <models>
+            <branchlabs_tracking>
+                <class>BranchLabs_Tracking_Model</class>
+            </branchlabs_tracking>
+        </models>
+    </global>
+</config>

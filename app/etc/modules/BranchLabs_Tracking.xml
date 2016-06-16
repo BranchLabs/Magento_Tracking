@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <BranchLabs_Tracking>
+            <active>true</active>
+            <codePool>community</codePool>
+            <depends></depends>
+        </BranchLabs_Tracking>
+    </modules>
+</config>
